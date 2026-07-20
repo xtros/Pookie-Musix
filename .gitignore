@@ -1,0 +1,6 @@
+node_modules/
+.env
+crash.log
+package-lock.zip
+scratch/
+.vscode/
